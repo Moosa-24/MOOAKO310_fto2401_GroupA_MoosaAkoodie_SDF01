@@ -1,28 +1,27 @@
+Overview:
 
-# Learning Reflections README 
+Reflections:
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
+Areas of Mastery:
 
-### Overview
+CSS Layout Techniques:
 
+Responsive Design:
 
-### Reflections
+Styling Elements:
 
-#### Areas of Mastery
+Challenges Faced:
 
-- **CSS Layout Techniques**: 
-- **Responsive Design**: 
-- **Styling Elements**: 
+Responsive Design for Smaller Screens:
 
-#### Challenges Faced
+Hover and Focus Effects:
 
-- **Responsive Design for Smaller Screens**:
-- **Hover and Focus Effects**: 
+Areas for Improvement:
 
-#### Areas for Improvement
+Advanced CSS Properties:
 
-- **Advanced CSS Properties**: 
-- **Code Optimization**: 
-- **Creative Design Choices**:
+Code Optimization:
 
-#### Overall Learning Experience
+Creative Design Choices:
+
+Overall Learning Experience:
