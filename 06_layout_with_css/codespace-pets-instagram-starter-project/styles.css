@@ -1,4 +1,4 @@
-/* Base Styles */
+/* styles.css */
 
 :root {
     font-size: 10px;
@@ -11,13 +11,69 @@
 }
 
 body {
-    font-family: "Open Sans", Arial, sans-serif;
+    font-family: "Arial", sans-serif;
     min-height: 100vh;
-    background-color: #fafafa;
-    color: #262626;
+    background-color: Snow;
+    color: DimGray;
+    margin: 0;
     padding-bottom: 3rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 img {
     display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    background-color: White;
+    border-bottom: 1px solid LightGray;
+    padding: 1rem 0;
+}
+
+.profile {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    align-items: center;
+}
+
+.profile-image img {
+    border-radius: 50%;
+}
+
+.profile-user-settings button {
+    background-color: DodgerBlue;
+    color: White;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.profile-stats ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.profile-bio {
+    margin-top: 1rem;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.loader {
+    height: 2rem;
+    margin: 1rem 0;
+    background-color: LightGray;
 }
