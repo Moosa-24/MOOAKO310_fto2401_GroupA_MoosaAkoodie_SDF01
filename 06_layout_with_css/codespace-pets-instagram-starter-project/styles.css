@@ -5,7 +5,7 @@
 }
  
 *,
-*::before,
+*::before, /*got some chatgpt help here, to be honest i still don't understand this part properly, won't be using chatbpt again anytime soon*/
 *::after {
     box-sizing: border-box;
 }
