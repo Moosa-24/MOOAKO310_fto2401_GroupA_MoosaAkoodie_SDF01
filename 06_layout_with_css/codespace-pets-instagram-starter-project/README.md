@@ -1,7 +1,6 @@
 Overview:
 
-Reflections:
-
+Reflections...
 Areas of Mastery:
 
 CSS Layout Techniques:
